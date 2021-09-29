@@ -1,1 +1,1 @@
-# ForencicGAN
+# ForensicGAN
